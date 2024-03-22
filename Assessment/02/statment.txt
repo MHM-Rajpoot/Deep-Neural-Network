@@ -1,0 +1,7 @@
+Your task for this assignment is to calculate the activation size and # parameters given on slide # 38 of W6 lecture. 
+Both of these (activation size and # parameters) are already given in the table, your task is to solve manually and to show how these are computed.
+
+Important: 
+
+    Submission is closed after due date so please be on time and don't ask for extension.
+    Use camscanner to scan your handwork and submit single pdf file.
