@@ -29,6 +29,14 @@ This repository contains comprehensive notes and code implementations related to
 16. Attention Layers
 17. Transformers
 
+Key Aspects of AI
+- Cognitive Computing
+- Computer Vision
+- Machine Learning
+- Neural Network
+- Deep Learning
+- Natural Language Processing
+
 ## Meta Folder
 - Contains handwritten notes for all the topics listed above.
 
