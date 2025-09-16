@@ -2,7 +2,7 @@
 
 This repository contains comprehensive notes and code implementations related to various deep learning concepts. The notes are organized in the `meta` folder, and the code files are stored in the `code` folder.
 
-![Books](/meta/books.jpg)
+![Books](/meta/Books.jpg)
 
 ## Table of Contents
 
